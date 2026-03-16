@@ -1,0 +1,8 @@
+# Dataset (user must place CSV file here manually)
+dataset/
+
+# Trained AI models (generated after training)
+models/
+
+# Virtual environment
+soc_env/
