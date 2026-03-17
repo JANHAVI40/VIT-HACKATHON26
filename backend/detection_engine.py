@@ -26,8 +26,10 @@ def analyze_packet(packet):
         data["risk"] = 60
 
     return {
-        "ip": src,
+        "src_ip": packet["dst_ip"],   # 🔥 swapped here
+        "dst_ip": packet["src_ip"],   # 🔥 swapped here
+        "protocol": packet["protocol"],
+        "dst_port": packet["dst_port"],
         "stage": data["stage"],
-        "risk": data["risk"],
-        "ports_scanned": len(data["ports"])
+        "risk": data["risk"]
     }

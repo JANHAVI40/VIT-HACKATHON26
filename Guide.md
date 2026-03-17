@@ -336,7 +336,7 @@ or
 
 - Example command:
 
-`nmap -Pn -T4 -F 10.102.75.137`
+`nmap -Pn -T4 -F 10.102.75.137` or `nmap -p 3000 10.102.75.137` or `nmap -sV -p 3000 10.32.251.137` 
 
 - Explanation:
 
