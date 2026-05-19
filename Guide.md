@@ -1,8 +1,8 @@
 ### AI‑Powered SOC Monitoring System
 
-##### ⚡ Testing Instructions (SOC System) : Important: Before testing, ensure your machine is on an isolated network. Packet sniffing may be blocked by Windows Security/Defender. You can either temporarily
-disable Defender/firewall or allow exceptions for Python, Npcap, and Docker. Do not use this on public networks.
-Local Setup & Contributor Implementation Guide
+##### ⚡ Testing Instructions (SOC System) : Important: Before testing, ensure your machine is on an isolated network. Packet sniffing may be blocked by Windows Security/Defender. You can either temporarily disable Defender/firewall or allow exceptions for Python, Npcap, and Docker. Do not use this on public networks.
+
+## Local Setup & Contributor Implementation Guide
 
 ### Project: AI‑Powered Security Operations Center (SOC)
 
