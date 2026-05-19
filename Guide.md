@@ -118,7 +118,7 @@ VIT-HACKATHON2026
 ├── backend
 │   ├── train_brain.py
 │   ├── detection_engine.py
-│   ├── packet_sniffer.py
+│   ├── sniffer.py
 │
 ├── frontend
 │   ├── main_app.py
