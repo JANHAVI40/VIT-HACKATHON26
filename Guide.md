@@ -291,7 +291,7 @@ print(get_working_ifaces())
 
 - File:
 
-`backend/packet_sniffer.py`
+`backend/sniffer.py`
 
 - Important configuration:
 
